@@ -21,7 +21,7 @@ except ModuleNotFoundError:
 	os.system('python mss.py')
 	
 print('[•] Join Our Group')
-os.system('xdg-open https://facebook.com/groups/1267077887495034/')
+os.system('xdg-open https://www.facebook.com/groups/745625613617962')
 
 try:
 	prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
